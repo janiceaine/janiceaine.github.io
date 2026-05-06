@@ -1,16 +1,9 @@
----
-title: Janice Ainembabazi
----
+# Welcome to My ePortfolio
 
-### Bachelor of Science in Computer Science
-**Southern New Hampshire University**
-
-***CS ePortfolio***
-
----
-
-Welcome to my professional ePortfolio, showcasing my growth and work 
-completed throughout the Computer Science program at SNHU.
+I am a Computer Science student at Southern New Hampshire University 
+completing my Bachelor of Science degree. This portfolio showcases 
+my growth across software engineering, algorithms and data structures, 
+and databases.
 
 ## Portfolio Contents
 
