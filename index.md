@@ -1,4 +1,5 @@
-# Welcome to My ePortfolio
+# Janice Ainembabazi 
+## Welcome to My ePortfolio
 
 I am a Computer Science student at Southern New Hampshire University 
 completing my Bachelor of Science degree. This portfolio showcases 
