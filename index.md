@@ -1,4 +1,3 @@
-# Janice Ainembabazi 
 ## Welcome to My ePortfolio
 
 I am a Computer Science student at Southern New Hampshire University 
