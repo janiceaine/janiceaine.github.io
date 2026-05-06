@@ -6,9 +6,6 @@ my growth across software engineering, algorithms and data structures,
 and databases.
 
 ## Portfolio Contents
-
-- **Code Review** — coming soon
 - **Enhancement 1:** Software Design & Engineering (CS-330)
-- **Enhancement 2:** Algorithms & Data Structures (CS-320)
+- **Enhancement 2:** Algorithms & Data Structures (CS-320)  
 - **Enhancement 3:** Databases (CS-250)
-- **Professional Self-Assessment** — coming soon
