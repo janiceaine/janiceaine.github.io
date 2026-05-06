@@ -1,8 +1,7 @@
 ---
-title: Janice Ainembabazi — CS ePortfolio
+title: Janice Ainembabazi
 ---
 
-# Janice Ainembabazi
 ### Bachelor of Science in Computer Science
 **Southern New Hampshire University**
 ***CS ePortfolio***
