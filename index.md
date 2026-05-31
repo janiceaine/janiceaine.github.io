@@ -1,3 +1,8 @@
+> **Computer Science Student | SNHU CS-499 Capstone**
+> Bridging contact center technology and software engineering through hands-on development in C++, Java, and databases.
+
+---
+
 I am a Computer Science student at Southern New Hampshire University completing my Bachelor of Science degree. I came into this program as an auto service technician and transitioned into a career in contact center technology through a professional development bootcamp. This portfolio documents my growth across software engineering, algorithms and data structures, and databases, and reflects the skills I have built through both my coursework and my professional work as a Genesys Cloud platform administrator and DevOps engineer.
 
 ---
