@@ -1,7 +1,4 @@
-# Janice Ainembabazi
-## Bachelor of Science in Computer Science | SNHU | CS-499 Capstone
-
-I am a Computer Science student at Southern New Hampshire University completing my Bachelor of Science degree. I came into this program as an auto service technician and transitioned into a career in contact center technology through a professional development bootcamp. This portfolio documents my growth across software engineering, algorithms and data structures, and databases — and reflects the skills I have built through both my coursework and my professional work as a Genesys Cloud platform administrator and DevOps engineer.
+I am a Computer Science student at Southern New Hampshire University completing my Bachelor of Science degree. I came into this program as an auto service technician and transitioned into a career in contact center technology through a professional development bootcamp. This portfolio documents my growth across software engineering, algorithms and data structures, and databases, and reflects the skills I have built through both my coursework and my professional work as a Genesys Cloud platform administrator and DevOps engineer.
 
 ---
 
@@ -49,7 +46,7 @@ The original project had all data hardcoded directly into the application. The p
 
 ## Professional Self-Assessment
 
-*Coming soon — will be added as the first section of the portfolio in Module Seven.*
+*Coming soon: will be added as the first section of the portfolio in Module Seven.*
 
 ---
 
