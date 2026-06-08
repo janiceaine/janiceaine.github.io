@@ -44,8 +44,8 @@ The original project contained three service classes each backed by a plain Hash
 
 The original project had all data hardcoded directly into the application. The planned enhancement replaces that hardcoded data with a live MongoDB connection so data is read from and written to a real database at runtime.
 
-- [View Enhancement 3 Narrative](#) *(coming soon)*
-- [View Source Code](#) *(coming soon)*
+- [View Enhancement 3 Narrative](narratives/Milestone 4 Databases.docx)
+- [View Source Code](artifacts/CS250-Databases.zip)
 
 ---
 
