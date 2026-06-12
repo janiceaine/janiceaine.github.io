@@ -1,7 +1,6 @@
 > **Computer Science Student | SNHU CS-499 Capstone**
-> Bridging contact center technology and software engineering through hands-on development in C++, Java, and databases.
-
-> Computer Science student completing my BS degree at SNHU. I transitioned into tech from a career as an auto service technician through a professional development bootcamp and have been working as a Genesys Cloud platform engineer and DevOps professional ever since. This portfolio documents my growth across software engineering, algorithms and data structures, and databases.
+> 
+> I am completing my Bachelor of Science in Computer Science at Southern New Hampshire University and this is part of my CS-499 Capstone. I came into this program as an auto service technician and transitioned into contact center technology through a professional development bootcamp, where I have been working as a Genesys Cloud platform engineer and DevOps professional ever since. This ePortfolio is the final deliverable of the capstone and brings together three enhanced artifacts that demonstrate my growth across software engineering, algorithms and data structures, and databases throughout the program.
  
 ---
  
@@ -78,12 +77,6 @@ The original project displayed five travel destinations in a Java Swing list wit
 
 - [View Enhancement 3 Narrative](narratives/Milestone 4 Databases.docx)
 - [View Source Code](artifacts/CS250-Databases.zip)
-
----
-
-## Professional Self-Assessment
-
-*Coming soon: will be added as the first section of the portfolio in Module Seven.*
 
 ---
 
