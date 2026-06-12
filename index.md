@@ -42,7 +42,7 @@ The original project contained three service classes each backed by a plain Hash
 
 **Artifact:** CS-250 Software Development Lifecycle (Java Swing / MongoDB)
 
-The original project had all data hardcoded directly into the application. The planned enhancement replaces that hardcoded data with a live MongoDB connection so data is read from and written to a real database at runtime.
+The original project displayed five travel destinations in a Java Swing list with all data hardcoded directly in the source file. I enhanced it by building a full stack MongoDB application. Destination records are stored as documents in a MongoDB collection. A Python Flask REST API handles all CRUD operations and two analytical queries. An HTML and JavaScript web UI lets users view, add, edit, and delete destinations through a browser with destination photos displayed on each card. The Java Swing UI reads from a JSON file the Python layer exports automatically after every write, so both interfaces stay in sync. This enhancement satisfies both the MongoDB interface with HTML and JavaScript requirement and the full stack with a different programming language requirement.
 
 - [View Enhancement 3 Narrative](narratives/Milestone 4 Databases.docx)
 - [View Source Code](artifacts/CS250-Databases.zip)
