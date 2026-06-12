@@ -1,5 +1,3 @@
-> **Computer Science Student | SNHU CS-499 Capstone**
-> 
 > I am completing my Bachelor of Science in Computer Science at Southern New Hampshire University and this is part of my CS-499 Capstone. I came into this program as an auto service technician and transitioned into contact center technology through a professional development bootcamp, where I have been working as a Genesys Cloud platform engineer and DevOps professional ever since. This ePortfolio is the final deliverable of the capstone and brings together three enhanced artifacts that demonstrate my growth across software engineering, algorithms and data structures, and databases throughout the program.
  
 ---
@@ -34,7 +32,7 @@ CS-405 Secure Coding is directly reflected in every artifact. Input validation r
  
 The three artifacts demonstrate the full range of skills a computer science professional needs. CS-330 shows reasoning about architecture and design patterns. CS-320 shows data structure trade-off analysis. CS-250 shows full stack development from database schema through REST API to web interface. Together they reflect what I have learned across my coursework and through my professional work in contact center technology. I am completing this program with the theoretical foundation and the portfolio to back up the skills I have been building in practice. My goal is to continue building on this in a DevOps architect or software engineering role where the combination of platform knowledge, automation experience, and computer science fundamentals I have developed will matter most.
  
-[Download Full Self-Assessment (Word)](narratives/CS499_Professional_Self_Assessment.docx)
+[Download Full Self-Assessment (Word)](Professional Self-Assessment.docx)
  
 ---
 
@@ -80,4 +78,4 @@ The original project displayed five travel destinations in a Java Swing list wit
 
 ---
 
-*Computer Science | DevOps | Cloud Platform Engineering*
+*Computer Science* | *DevOps* | *Cloud Platform Engineering*
